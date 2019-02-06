@@ -50,7 +50,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.cutoff_voltage_mv=3400 \
     ro.bluetooth.hfp.ver=1.7 \
     qcom.bluetooth.soc=smd \
-    vendor.qcom.bluetooth.soc=smd \
     ro.qualcomm.bt.hci_transport=smd \
     ro.qualcomm.bluetooth.opp=true \
     ro.qualcomm.bluetooth.hfp=true \
