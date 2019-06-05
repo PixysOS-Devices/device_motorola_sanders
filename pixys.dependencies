@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "LiquidRemixSanders/vendor_motorola_sanders",
+    "repository":  "PixysOS-Devices/vendor_motorola_sanders",
     "target_path": "vendor/motorola/sanders",
-    "branch": "9.0"
+    "branch": "Pie"
   },
 
   {
@@ -10,5 +10,11 @@
     "target_path": "prebuilts/clang/host/linux-x86",
     "branch": "pie",
     "remote": "gituhb"
+  },
+
+  {
+   "repository": "PixysOS-Devices/kernel_motorola_msm8953",
+   "target_path": "kernel/motorola/msm8953",
+   "branch": 9.0-eas-caf",
   }
 ]
