@@ -6,9 +6,9 @@
   },
 
   {
-    "repository":  "AOSiP/platform_prebuilts_clang_host_linux-x86",
-    "target_path": "prebuilts/clang/host/linux-x86",
-    "branch": "pie",
+    "repository":  "LineageOS/android_packages_resources_devicesettings",
+    "target_path": packages/resources/devicesettings",
+    "branch": "lineage-16.0",
     "remote": "gituhb"
   },
 
