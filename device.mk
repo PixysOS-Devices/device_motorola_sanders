@@ -280,7 +280,7 @@ PRODUCT_COPY_FILES += \
 
 # MotoActions
 PRODUCT_PACKAGES += \
-    MotoActions
+#   MotoActions
 
 # Netutils
 PRODUCT_PACKAGES += \
