@@ -289,15 +289,6 @@ PRODUCT_PACKAGES += \
     libandroid_net_32 \
     netutils-wrapper-1.0
 
-# NFC
-PRODUCT_PACKAGES += \
-    android.hardware.nfc@1.1-service \
-    com.android.nfc_extras \
-    libnfc \
-    NfcNci \
-    SecureElement \
-    Tag
-
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/libnfc-nci.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nci.conf \
     $(LOCAL_PATH)/configs/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf
