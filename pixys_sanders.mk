@@ -41,7 +41,7 @@ PRODUCT_MODEL := Moto G (5S) Plus
 PRODUCT_SYSTEM_PROPERTY_BLACKLIST := ro.product.model
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRODUCT_NAME="Moto G5S Plus" \
+    PRODUCT_NAME="Moto.G5S.Plus" \
     TARGET_DEVICE="sanders" \
     PRIVATE_BUILD_DESC="coral-user 10 QQ3A.200605.001 6392402 release-keys"
 
