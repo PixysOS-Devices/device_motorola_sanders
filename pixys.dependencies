@@ -30,5 +30,11 @@
       "repository":"LineageOS/android_packages_resources_devicesettings",
       "target_path":"packages/resources/devicesettings",
       "branch":"lineage-18.0"
-  }
+   },
+   {
+      "remote":"github",
+      "repository":"PixelExperience/packages_resources_devicesettings-custom",
+      "target_path":"packages/resources/devicesettings-custom",
+      "branch":"eleven"
+   }
 ]
